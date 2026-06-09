@@ -1,0 +1,473 @@
+# Dante Cave, Namibia, Holocene Stalagmite Stable Isotope and Mineralogy Data
+#----------------------------------------------------
+#                World Data Service for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/14268
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-cave-14268.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Speleothems
+#
+# Dataset_DOI: 10.25921/0993-8x51
+#
+# Science_Keywords: hydrology, drought
+#--------------------
+# Resource_Links
+#
+# Data_Download_Resource:  https://www.ncei.noaa.gov/pub/data/paleo/speleothem/africa/dantecave2013sletten-noaa.txt
+#   Data_Download_Description: NOAA Template File; Stable Isotope and Mineralogy Data
+#
+#--------------------
+# Contribution_Date
+#   Date: 2013-04-01
+#--------------------
+# File_Last_Modified_Date
+#   Date: 2025-03-17
+#--------------------
+# Title
+#   Study_Name: Dante Cave, Namibia, Holocene Stalagmite Stable Isotope and Mineralogy Data
+#--------------------
+# Investigators
+#   Investigators: Sletten, H.R.(https://orcid.org/0000-0001-7942-3759); Railsback, L.B.(https://orcid.org/0000-0002-5700-0234); Liang, F.; Brook, G.A.; Marais, E.; Hardt, B.F.(https://orcid.org/0000-0002-1287-1167); Cheng, H.(https://orcid.org/0000-0002-5305-9458); Edwards, R.L.(https://orcid.org/0000-0002-7027-5881)
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: Dante Cave (19° 24′ S; 17° 53′ E) Otjozondjupa Region, Namibia. Keywords: hydrology, drought, carbon isotopes, oxygen isotopes, geochemistry
+#--------------------
+# Publication
+#   Authors: Hillary R. Sletten, L. Bruce Railsback, Fuyuan Liang, George A. Brook, Eugene Marais, Benjamin F. Hardt, Hai Cheng, R. Lawrence Edwards
+#   Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology
+#   Published_Title: A petrographic and geochemical record of climate change over the last 4600 years from a northern Namibia stalagmite, with evidence of abruptly wetter climate at the beginning of southern Africa's Iron
+#   Published_Date_or_Year: 2013
+#   Volume: 376
+#   Pages: 149-162
+#   Issue: 
+#   Report_Number: 
+#   DOI: 10.1016/j.palaeo.2013.02.030
+#   Full_Citation:
+#   Abstract: Stalagmite DP1, a speleothem 1.6 m in length from Dante Cave in northeastern Namibia, provides a paleoclimate record of a gradual transition from wetter to drier conditions from 4.6 to 3.3 ka BP, a variable but pronounced dry period from 3.3 to 1.8 ka, and a wetter but variable period from 1.8 ka to the present. This record is based on 30 U/Th radiometric dates and their resulting calculated growth rates, and on C and O stable isotope data, relative proportions of aragonite and calcite in layers, measurements of stalagmite width along layers, and observation of petrographic surfaces suggestive of changes from drier to wetter conditions and vice versa. The stalagmite's first deposition, which seemingly followed conditions too wet for deposition, coincided with desiccation in the Sahara and the end of the African Humid Period there. Gradual drying continued and led to a sustained very dry period from 3322 ± 11 to 1786 ± 10 BP, a "2-3 ka BP Dry Period". That dry period began and ended abruptly. The abrupt transition from drier to wetter conditions at 1.8 ka coincides with the beginning of the Iron Age in southern Africa, suggesting that wetter conditions facilitated migrations and/or changes in food production that may have contributed to a transition in human technologies and lifestyles. This transition is coeval with transitions to colder conditions in ice core records from Greenland and Antarctica. The DP1 record suggests considerable change over the past 1800 years, with at least three wet/dry cycles. The wettest conditions may have occurred relatively recently, between 230 and 100 BP (A.D. 1720 and 1850), so that early European explorers may have seen and/or heard reports of conditions among the wettest during the later Holocene in southern Africa.
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: 0002193
+#--------------------
+# Site_Information
+#   Site_Name: Dante Cave
+#   Location: Namibia
+#   Northernmost_Latitude: -19.4
+#   Southernmost_Latitude: -19.4
+#   Easternmost_Longitude: 17.883333
+#   Westernmost_Longitude: 17.883333
+#   Elevation_m: 
+#--------------------
+# Data_Collection
+#   Collection_Name: Dante
+#   First_Year: 4618
+#   Last_Year: 18
+#   Time_Unit: cal yr BP
+#   Core_Length_m:
+#   Parameter_Keywords: geochemistry, carbon isotopes, oxygen isotopes
+#   Notes: 
+#--------------------
+# Chronology_Information
+#   Chronology: Uranium-Thorium
+#   Chronology_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/templates/noaa-wds-paleo-uth-terms.csv
+#     Chronology_Download_Description: Uranium-Thorium terms and definitions.
+#   Chronology_Notes: 
+#   Rejection_Rationale: Of the 30 samples dated, four results were rejected where either small 238U concentrations (e.g., in Sample DP1-654, which was in calcite) or large 232Th concentrations (e.g., in Sample DP1-450, which nicked a detrital layer) dictated large uncertainties and/or reversals in the sequence of ages.
+#   238U_Decay_Constant: Cheng et al. 2000
+#   234U_Decay_Constant: Cheng et al. 2000
+#   230Th_Decay_Constant: Cheng et al. 2000
+#   Initial_230Th/232Th: 4.4 ± 2.2 × 10^-6
+#   Initial_230Th/232Th_Method: This is a ratio for a “bulk earth” or crustal material at secular equilibrium, with a 232Th/238U value of 3.8. The error of this “bulk earth” value is assumed to be ± 50%. The error in the final “corrected age” incorporates this uncertainty.
+#   Age_Model_Method:
+#   Missing_Values: na
+#   Chronology_Table:
+# samp_id	depth_top_mm	238U_ppb	238U_2s_ppb	232Th_ppt	232Th_2s_ppt	230Th_232Th_act	230Th_232Th_act_2s	d234U_meas_permil	d234U_meas_2s_permil	230Th_238U_act	230Th_238U_act_2s	d234U_init_permil	d234U_init_2s_permil	meas_yr	age_uncorr_BM	age_uncorr_2s_yr	age_corr_BM	age_corr_BP1950	age_corr_2s_yr	date_used
+# DP1-T	2	2073	5.7	209	1	142	40	300.1	1.9	0.0009	0.0002	300.2	1.9	2007	73	21	71	14	21	yes
+# DP1-103	103	4840	9.6	37	1	5108	134	284.5	1.6	0.0023	0.0001	284.7	1.6	2007	200	4	200	143	4	yes
+# DP1-250	252	1091.7	2.7	34	1	2768	109	299.6	2.8	0.0052	0.0002	300	2.8	2007	440	16	439	382	16	yes
+# DP1-293G	293	963	1	355	7	397.1	9.4	273.2	2.3	0.0089	0.0001	274	2	2011	763	9	754	693	11	yes
+# DP1-315	316	3104.7	10.9	48	1	9427	197	269.4	2.9	0.0088	0.0002	270	2.9	2007	757	13	757	700	13	yes
+# DP1-448	448	1756	2	776	16	383.6	7.9	277.1	2.0	0.0103	0.0000	278	2	2010	882	4	871	811	8	yes
+# DP1-450	450	1105.4	1.9	28617	101	9	0.3	279.2	1.8	0.0142	0.0005	279.7	1.8	2007	1214	46	624	567	420	no
+# DP1-550	551	1940.3	4.8	82	1	5414	97	292.9	2.3	0.0139	0.0002	293.8	2.3	2007	1177	20	1176	1119	20	yes
+# DP1-570	570	2269	2	169	3	3140.7	65.3	283.7	1.9	0.0142	0.0000	285	2	2010	1210	4	1208	1148	4	yes
+# DP1-654	654	174.5	0.3	137	3	371.1	10.2	262.7	3.6	0.0176	0.0003	264	4	2010	1533	28	1515	1455	31	no
+# DP1-671	672	1902.8	4.1	287	1	1726	24	287.4	2.0	0.0158	0.0002	288.5	2	2007	1345	18	1341	1284	18	yes
+# DP1-690	693	2376.5	5	242	2	2574	39	295.1	2.1	0.0159	0.0002	296.2	2.1	2007	1344	18	1342	1285	18	yes
+# DP1-705	710	1421.5	2.4	210	2	2575	39	294.3	1.7	0.0230	0.0003	296	1.7	2007	1957	27	1953	1896	27	no
+# DP1-709	717	4181	5	182	4	6304	130.4	287.5	1.6	0.0167	0.0000	289	2	2010	1421	3	1420	1360	3	yes
+# DP1-775	775	3763.8	7.1	25	2	45962	3218	296.0	1.6	0.0182	0.0002	297.2	1.6	2007	1541	16	1541	1484	16	yes
+# DP1-859	830	3235	4	143	3	7387.5	154.3	291.4	1.7	0.0198	0.0000	293	2	2010	1682	4	1681	1621	4	yes
+# DP1-893	893	1073.5	3	304	6	1275	26	297.0	2.5	0.0219	0.0001	299	3	2012	1854	9	1848	1786	10	yes
+# DP1-958	958	1729.5	3.8	53	1	15824	417	322.2	2.3	0.0295	0.0001	324	2	2010	2462	9	2462	2402	9	yes
+# DP1-1003	1009	3076	3	114	2	15224.7	323.3	320.4	1.6	0.0341	0.0001	323	2	2010	2851	6	2850	2790	6	yes
+# DP1-1052	1056	3604	4	123	3	18785.9	396.4	361.5	1.8	0.0388	0.0001	365	2	2010	3147	7	3146	3086	7	yes
+# DP1-1080G	1080	2138	5	141	3	10389.3	234.1	354.2	2.4	0.0414	0.0001	358	2	2011	3385	11	3383	3322	11	yes
+# DP1-1084	1154	5595	8	136	3	28712	602	365.0	1.9	0.0422	0.0001	369	2	2010	3420	9	3419	3359	9	yes
+# DP1-1131	1202	3125	4	624	13	3627	73	336.7	1.7	0.0440	0.0001	340	2	2010	3641	8	3637	3577	8	yes
+# DP1-1189	1292	2835	3	536	11	4075	82	326.9	1.9	0.0468	0.0001	330	2	2010	3906	9	3902	3842	9	yes
+# DP1-1234	1335	2282	3	167	3	10865	224	327.0	2.1	0.0483	0.0001	331	2	2010	4033	10	4031	3971	10	yes
+# DP1-1285	1381	2460	3	735	18	2728	67	319.1	1.8	0.0494	0.0003	323	2	2010	4157	28	4151	4091	28	yes
+# DP1-1374	1473	4029	5	3597	72	995	20	334.5	1.8	0.0539	0.0001	339	2	2010	4488	10	4468	4408	17	yes
+# DP1-1525G	1525	1932.6	2.8	1910	38	937	19	347.9	1.9	0.0562	0.0001	352	2	2011	4633	13	4611	4550	20	yes
+# DP1-B	1559	4705.8	19	1226	5	3584	24	353.0	2.3	0.0566	0.0004	357.6	2.4	2007	4655	33	4649	4592	33	yes
+# DP1-1475	1584	3759	5	3170	64	1113	22	349.2	2.0	0.0569	0.0001	354	2	2010	4692	12	4674	4614	17	yes
+#--------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by '##' in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## depth_mm	depth,,,millimeter,,speleothems,,,N,Distance from top of stalagmite
+## age_calBP	age,,,calendar year before present,,speleothems,,,N,Age as determined using relationships illustrated in Figure 8 and dates reported in Table 1 of Sletten et al.
+## calcite%	calcite,calcium carbonate,,percent,,speleothems,raw,,N,Proportion of layer that is calcite; "0" indicates a layer entirely of aragonite; Data are shown only where layering was sufficiently obvious to allow a determination
+## d13CcarbVPDB	delta 13C,calcium carbonate,,per mil VPDB,,speleothems,raw,isotope ratio mass spectrometry,N,
+## d18OcarbVPDB	delta 18O,calcium carbonate,,per mil VPDB,,speleothems,raw,isotope ratio mass spectrometry,N,
+## d13CcarbVPDB_ac	delta 13C,calcium carbonate,,per mil VPDB,,speleothems,corrected,isotope ratio mass spectrometry,N,Same as d13CcarbVPDB but with 1.7 subtracted for data from aragonite to convert data to a calcite basis (to eliminate the effect of fractionation between aragonite and calcite)
+## d18OcarbVPDB_ac	delta 18O,calcium carbonate,,per mil VPDB,,speleothems,corrected,isotope ratio mass spectrometry,N,Same as d18OcarbVPDB but with 0.8 subtracted for data from aragonite to convert data to a calcite basis (to eliminate the effect of fractionation between aragonite and calcite)
+## growth_mmyr	growth rate,calcium carbonate,,millimeter per year,,speleothems,raw,,N,Results are not shown at the position of a radiometric date because a rate cannot be calculated there
+## notes	notes,,,,,speleothems,,,C,identification of stable isotope sample and mineralogy at crest of stalagmite where stable isotope sample was taken
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:
+depth_mm	age_calBP	calcite%	d13CcarbVPDB	d18OcarbVPDB	d13CcarbVPDB_ac	d18OcarbVPDB_ac	growth_mmyr	notes
+5	18		-6.6	-8.1	-8.3	-8.9	0.78	UGA Sample ID:  DP1-5; Mineralogy: Aragonite
+6	19	0	-7.2	-8.5	-8.9	-9.3	0.78	UGA Sample ID:  DP1-ISO-6; Mineralogy: Aragonite
+10	24		-7.4	-8.4	-9.1	-9.2	0.78	UGA Sample ID:  DP1-10; Mineralogy: Aragonite
+11	25	0	-7.7	-8.7	-9.4	-9.5	0.78	UGA Sample ID:  DP1-ISO-11; Mineralogy: Aragonite
+15	31		-7.8	-8.6	-9.5	-9.4	0.78	UGA Sample ID:  DP1-15; Mineralogy: Aragonite
+21	38	0	-7.0	-8.2	-8.7	-9.0	0.78	UGA Sample ID:  DP1-ISO-20; Mineralogy: Aragonite
+25	43		-7.2	-8.4	-7.2	-8.4	0.78	UGA Sample ID:  DP1-25; Mineralogy: Calcite
+26	45	40	-9.4	-9.2	-9.4	-9.2	0.78	UGA Sample ID:  DP1-ISO-25; Mineralogy: Calcite
+30	50		-7.3	-8.5	-7.3	-8.5	0.78	UGA Sample ID:  DP1-30; Mineralogy: Calcite
+34	55	80	-9.7	-9.5	-9.7	-9.5	0.78	UGA Sample ID:  DP1-ISO-32; Mineralogy: Calcite
+35	56		-8.8	-9.5	-10.5	-10.3	0.78	UGA Sample ID:  DP1-35; Mineralogy: Aragonite
+41	64	0	-8.2	-9.4	-9.9	-10.2	0.78	UGA Sample ID:  DP1-ISO-40; Mineralogy: Aragonite
+45	69		-6.9	-8.8	-8.6	-9.6	0.78	UGA Sample ID:  DP1-45; Mineralogy: Aragonite
+49	74	0	-6.3	-8.4	-8.0	-9.2	0.78	UGA Sample ID:  DP1-ISO-48; Mineralogy: Aragonite
+50	75		-6.9	-8.9	-8.6	-9.7	0.78	UGA Sample ID:  DP1-50A; Mineralogy: Aragonite
+55	82	1	-7.5	-9.3	-9.2	-10.1	0.78	UGA Sample ID:  DP1-ISO-55; Mineralogy: Aragonite
+60	88		-7.3	-9.6	-7.3	-9.6	0.78	UGA Sample ID:  DP1-60; Mineralogy: Calcite
+64	93	14	-9.5	-10.6	-9.5	-10.6	0.78	UGA Sample ID:  DP1-ISO-64; Mineralogy: Calcite
+65	94		-7.8	-10.0	-7.8	-10.0	0.78	UGA Sample ID:  DP1-65; Mineralogy: Calcite
+69	100	60	-9.7	-10.6	-9.7	-10.6	0.78	UGA Sample ID:  DP1-ISO-69; Mineralogy: Calcite
+70	101		-7.9	-10.1	-9.6	-10.9	0.78	UGA Sample ID:  DP1-70; Mineralogy: Aragonite
+75	107		-6.6	-8.9	-8.3	-9.7	0.78	UGA Sample ID:  DP1-75; Mineralogy: Aragonite
+76	109	0	-6.9	-9.2	-8.6	-10.0	0.78	UGA Sample ID:  DP1-ISO-76; Mineralogy: Aragonite
+80	114		-7.2	-10.0	-8.9	-10.8	0.78	UGA Sample ID:  DP1-80; Mineralogy: Aragonite
+85	120	0	-7.4	-9.8	-9.1	-10.6	0.78	UGA Sample ID:  DP1-ISO-85; Mineralogy: Aragonite
+90	126		-9.2	-10.6	-10.9	-11.4	0.78	UGA Sample ID:  DP1-90; Mineralogy: Aragonite
+95	133	30	-9.9	-10.7	-9.9	-10.7	0.78	UGA Sample ID:  DP1-ISO-95; Mineralogy: Calcite
+100	139		-10.2	-10.8	-10.2	-10.8	0.78	UGA Sample ID:  DP1-100; Mineralogy: Calcite
+101	140	60	-9.9	-10.7	-9.9	-10.7	0.78	UGA Sample ID:  DP1-ISO-101; Mineralogy: Calcite
+109	153	0	-6.8	-9.5	-8.5	-10.3	0.62	UGA Sample ID:  DP1-ISO-109; Mineralogy: Aragonite
+116	164	0	-7.1	-9.6	-8.8	-10.4	0.62	UGA Sample ID:  DP1-ISO-116; Mineralogy: Aragonite
+120	170		-9.8	-11.4	-9.8	-11.4	0.62	UGA Sample ID:  DP1-120; Mineralogy: Calcite
+121	172	30	-9.2	-11.0	-9.2	-11.0	0.62	UGA Sample ID:  DP1-ISO-122; Mineralogy: Calcite
+125	178		-9.4	-11.0	-9.4	-11.0	0.62	UGA Sample ID:  DP1-125; Mineralogy: Calcite
+130	186		-10.0	-11.4	-10.0	-11.4	0.62	UGA Sample ID:  DP1-130; Mineralogy: Calcite
+131	188	35	-9.7	-11.2	-9.7	-11.2	0.62	UGA Sample ID:  DP1-ISO-132; Mineralogy: Calcite
+135	194		-10.3	-11.6	-10.3	-11.6	0.62	UGA Sample ID:  DP1-135; Mineralogy: Calcite
+140	202	30	-9.7	-11.2	-9.7	-11.2	0.62	UGA Sample ID:  DP1-140; Mineralogy: Calcite
+143	207	0	-7.9	-9.7	-9.6	-10.5	0.62	UGA Sample ID:  DP1-ISO-143; Mineralogy: Aragonite
+145	210		-9.6	-10.4	-9.6	-10.4	0.62	UGA Sample ID:  DP1-145; Mineralogy: Calcite
+146	212	35	-7.3	-9.5	-7.3	-9.5	0.62	UGA Sample ID:  DP1-ISO-146; Mineralogy: Calcite
+150	218		-9.9	-10.5	-9.9	-10.5	0.62	UGA Sample ID:  DP1-150; Mineralogy: Calcite
+155	226	0	-9.3	-10.3	-11.0	-11.1	0.62	UGA Sample ID:  DP1-ISO-155; Mineralogy: Aragonite
+160	234		-9.7	-10.3	-9.7	-10.3	0.62	UGA Sample ID:  DP1-160; Mineralogy: Calcite
+161	236	30	-9.5	-10.4	-9.5	-10.4	0.62	UGA Sample ID:  DP1-ISO-161; Mineralogy: Calcite
+165	242		-7.7	-9.6	-9.4	-10.4	0.62	UGA Sample ID:  DP1-165; Mineralogy: Aragonite
+168	247	0	-6.1	-9.1	-7.8	-9.9	0.62	UGA Sample ID:  DP1-ISO-168; Mineralogy: Aragonite
+170	250		-7.2	-9.2	-8.9	-10.0	0.62	UGA Sample ID:  DP1-170; Mineralogy: Aragonite
+180	267	65	-9.6	-10.1	-9.6	-10.1	0.62	UGA Sample ID:  DP1-ISO-180; Mineralogy: Calcite
+185	275	70	-10.0	-10.2	-10.0	-10.2	0.62	UGA Sample ID:  DP1-ISO-185; Mineralogy: Calcite
+192	286	0	-7.2	-9.1	-7.2	-9.1	0.62	UGA Sample ID:  DP1-ISO-191; Mineralogy: Aragonite
+195	291		-6.2	-9.5	-6.2	-9.5	0.62	UGA Sample ID:  DP1-195; Mineralogy: Aragonite
+200	299		-6.6	-9.7	-6.6	-9.7	0.62	UGA Sample ID:  DP1-200; Mineralogy: Aragonite
+210	315	20	-9.4	-10.8	-9.4	-10.8	0.62	UGA Sample ID:  DP1-ISO-209; Mineralogy: Calcite
+218	327	30	-9.2	-10.6	-9.2	-10.6	0.62	UGA Sample ID:  DP1-ISO-217; Mineralogy: Calcite
+230	347	37	-10.0	-10.8	-10.0	-10.8	0.62	UGA Sample ID:  DP1-ISO-229; Mineralogy: Calcite
+236	356	0	-8.0	-9.9	-9.7	-10.7	0.62	UGA Sample ID:  DP1-ISO-235; Mineralogy: Aragonite
+241	364	0	-5.5	-7.5	-7.2	-8.3	0.62	UGA Sample ID:  DP1-ISO-240; Mineralogy: Aragonite
+246	372	0	-5.6	-7.4	-7.3	-8.2	0.62	UGA Sample ID:  DP1-ISO-245; Mineralogy: Aragonite
+252	382	0	-7.0	-9.1	-8.7	-9.9		UGA Sample ID:  DP1-ISO-250; Mineralogy: Aragonite
+255	404	0	-6.5	-6.8	-8.2	-7.6	0.13	UGA Sample ID:  DP1-UAL-255; Mineralogy: Aragonite
+259	434	0	-6.4	-7.4	-8.1	-8.2	0.13	UGA Sample ID:  DP1-UAL-259; Mineralogy: Aragonite
+263	464	0	-6.0	-8.2	-7.7	-9.0	0.13	UGA Sample ID:  DP1-ISO-261; Mineralogy: Aragonite
+268	501	0	-5.2	-7.3	-6.9	-8.1	0.13	UGA Sample ID:  DP1-ISO-266; Mineralogy: Aragonite
+275	553	0	-6.6	-8.1	-8.3	-8.9	0.13	UGA Sample ID:  DP1-ISO-272; Mineralogy: Aragonite
+278	575	0	-6.9	-8.5	-8.6	-9.3	0.13	UGA Sample ID:  DP1-ISO-276; Mineralogy: Aragonite
+283	613	0	-6.1	-7.1	-7.8	-7.9	0.13	UGA Sample ID:  DP1-ISO-280; Mineralogy: Aragonite
+288	650	0	-7.1	-7.6	-8.8	-8.4	0.13	UGA Sample ID:  DP1-ISO-285; Mineralogy: Aragonite
+293	687	0	-6.5	-7.2	-8.2	-8.0	1.10	UGA Sample ID:  DP1-ISO-290; Mineralogy: Aragonite
+298	692	80	-10.1	-9.0	-10.1	-9.0	1.10	UGA Sample ID:  DP1-ISO-295; Mineralogy: Calcite
+302	695	50	-9.4	-9.2	-9.4	-9.2	1.10	UGA Sample ID:  DP1-ISO-299; Mineralogy: Calcite
+308	701	20	-10.4	-10.3	-10.4	-10.3	1.10	UGA Sample ID:  DP1-ISO-306; Mineralogy: Calcite
+316	708		-7.2	-8.6	-7.2	-8.6	1.10	UGA Sample ID:  DP1-ISO-314; Mineralogy: Calcite
+323	713		-8.1	-8.4	-8.1	-8.4	1.28	UGA Sample ID:  DP1-ISO-321; Mineralogy: Calcite
+328	717	60	-9.6	-9.3	-9.6	-9.3	1.28	UGA Sample ID:  DP1-ISO-325; Mineralogy: Calcite
+333	721	47	-9.6	-9.7	-9.6	-9.7	1.28	UGA Sample ID:  DP1-ISO-330; Mineralogy: Calcite
+338	725	0	-6.6	-8.8	-8.3	-9.6	1.28	UGA Sample ID:  DP1-ISO-335; Mineralogy: Aragonite
+343	729	55	-9.9	-10.1	-9.9	-10.1	1.28	UGA Sample ID:  DP1-ISO-340; Mineralogy: Calcite
+348	733	0	-6.4	-8.8	-8.1	-9.6	1.28	UGA Sample ID:  DP1-ISO-345; Mineralogy: Aragonite
+352	736	0	-7.1	-9.3	-8.8	-10.1	1.28	UGA Sample ID:  DP1-ISO-349; Mineralogy: Aragonite
+357	740	30	-9.6	-10.6	-9.6	-10.6	1.28	UGA Sample ID:  DP1-ISO-355; Mineralogy: Calcite
+363	745	65	-9.7	-10.2	-9.7	-10.2	1.28	UGA Sample ID:  DP1-ISO-360; Mineralogy: Calcite
+367	748	70	-9.7	-10.2	-9.7	-10.2	1.28	UGA Sample ID:  DP1-ISO-365; Mineralogy: Calcite
+372	752	70	-10.4	-10.3	-10.4	-10.3	1.28	UGA Sample ID:  DP1-ISO-370; Mineralogy: Calcite
+377	756	80	-9.4	-9.1	-9.4	-9.1	1.28	UGA Sample ID:  DP1-ISO-375; Mineralogy: Calcite
+382	760	80	-10.3	-9.4	-10.3	-9.4	1.28	UGA Sample ID:  DP1-ISO-380; Mineralogy: Calcite
+387	763	70	-9.2	-8.6	-9.2	-8.6	1.28	UGA Sample ID:  DP1-ISO-384; Mineralogy: Calcite
+391	767	60	-10.0	-8.9	-10.0	-8.9	1.28	UGA Sample ID:  DP1-ISO-388; Mineralogy: Calcite
+394	769	50	-9.0	-9.3	-9.0	-9.3	1.28	UGA Sample ID:  DP1-ISO-393; Mineralogy: Calcite
+399	773	55	-9.4	-10.0	-9.4	-10.0	1.28	UGA Sample ID:  DP1-ISO-398; Mineralogy: Calcite
+409	781	36	-9.5	-10.2	-9.5	-10.2	1.28	UGA Sample ID:  DP1-ISO-408; Mineralogy: Calcite
+418	788	34	-9.4	-10.5	-9.4	-10.5	1.28	UGA Sample ID:  DP1-ISO-418; Mineralogy: Calcite
+427	795	34	-9.4	-10.6	-9.4	-10.6	1.28	UGA Sample ID:  DP1-ISO-427; Mineralogy: Calcite
+431	798	10	-6.9	-9.5	-8.6	-10.3	1.28	UGA Sample ID:  DP1-ISO-431; Mineralogy: Aragonite
+435	801	5	-6.8	-9.2	-8.5	-10.0	1.28	UGA Sample ID:  DP1-ISO-436; Mineralogy: Aragonite
+440	805	0	-7.2	-9.1	-8.9	-9.9	1.28	UGA Sample ID:  DP1-ISO-441; Mineralogy: Aragonite
+445	809	0	-6.5	-9.0	-8.2	-9.8	1.28	UGA Sample ID:  DP1-ISO-446; Mineralogy: Aragonite
+450	817	10	-5.8	-8.8	-7.5	-9.6	0.33	UGA Sample ID:  DP1-ISO-451; Mineralogy: Aragonite
+458	841	0	-5.8	-8.7	-7.5	-9.5	0.33	UGA Sample ID:  DP1-ISO-456; Mineralogy: Aragonite
+464	859	0	-6.1	-8.5	-7.8	-9.3	0.33	UGA Sample ID:  DP1-ISO-461; Mineralogy: Aragonite
+474	889	0	-5.7	-8.0	-7.4	-8.8	0.33	UGA Sample ID:  DP1-ISO-471; Mineralogy: Aragonite
+479	904	0	-5.6	-8.2	-7.3	-9.0	0.33	UGA Sample ID:  DP1-ISO-476; Mineralogy: Aragonite
+484	919	0	-6.1	-8.6	-7.8	-9.4	0.33	UGA Sample ID:  DP1-ISO-481; Mineralogy: Aragonite
+493	946	0	-7.0	-9.0	-8.7	-9.8	0.33	UGA Sample ID:  DP1-ISO-490; Mineralogy: Aragonite
+497	958	0	-5.7	-7.7	-7.4	-8.5	0.33	UGA Sample ID:  DP1-ISO-495; Mineralogy: Aragonite
+502	972	0	-6.6	-8.4	-8.3	-9.2	0.33	UGA Sample ID:  DP1-ISO-500; Mineralogy: Aragonite
+506	984	0	-6.1	-8.1	-7.8	-8.9	0.33	UGA Sample ID:  DP1-ISO-505; Mineralogy: Aragonite
+511	999	0	-7.0	-8.6	-8.7	-9.4	0.33	UGA Sample ID:  DP1-ISO-509; Mineralogy: Aragonite
+516	1014	0	-6.3	-8.0	-8.0	-8.8	0.33	UGA Sample ID:  DP1-ISO-515; Mineralogy: Aragonite
+520	1026	0	-6.4	-8.5	-8.1	-9.3	0.33	UGA Sample ID:  DP1-ISO-520; Mineralogy: Aragonite
+525	1041	0	-6.2	-7.8	-7.9	-8.6	0.33	UGA Sample ID:  DP1-ISO-524; Mineralogy: Aragonite
+530	1056	0	-6.3	-8.4	-8.0	-9.2	0.33	UGA Sample ID:  DP1-ISO-529; Mineralogy: Aragonite
+535	1071	0	-6.4	-8.1	-8.1	-8.9	0.33	UGA Sample ID:  DP1-ISO-535; Mineralogy: Aragonite
+540	1086	0	-6.4	-8.0	-8.1	-8.8	0.33	UGA Sample ID:  DP1-ISO-541; Mineralogy: Aragonite
+549	1113	0	-5.8	-7.6	-7.5	-8.4	0.33	UGA Sample ID:  DP1-ISO-546; Mineralogy: Aragonite
+554	1124	60	-9.2	-9.8	-9.2	-9.8	0.66	UGA Sample ID:  DP1-ISO-554; Mineralogy: Calcite
+559	1131	55	-9.2	-9.6	-9.2	-9.6	0.66	UGA Sample ID:  DP1-ISO-559; Mineralogy: Calcite
+564	1139	53	-9.6	-9.9	-9.6	-9.9	0.66	UGA Sample ID:  DP1-ISO-564; Mineralogy: Calcite
+568	1145	0	-6.5	-9.1	-8.2	-9.9	0.66	UGA Sample ID:  DP1-ISO-568; Mineralogy: Aragonite
+574	1153	30	-8.5	-10.2	-8.5	-10.2	0.85	UGA Sample ID:  DP1-ISO-575; Mineralogy: Calcite
+585	1166	28	-9.0	-10.5	-9.0	-10.5	0.85	UGA Sample ID:  DP1-ISO-586; Mineralogy: Calcite
+590	1172	47	-9.4	-10.6	-9.4	-10.6	0.85	UGA Sample ID:  DP1-ISO-591; Mineralogy: Calcite
+596	1179	44	-9.4	-10.6	-9.4	-10.6	0.85	UGA Sample ID:  DP1-ISO-597; Mineralogy: Calcite
+601	1184	20	-6.4	-8.9	-8.1	-9.7	0.85	UGA Sample ID:  DP1-ISO-602; Mineralogy: Aragonite
+609	1194	53	-9.6	-10.1	-9.6	-10.1	0.85	UGA Sample ID:  DP1-ISO-611; Mineralogy: Calcite
+613	1199	0	-6.1	-8.7	-7.8	-9.5	0.85	UGA Sample ID:  DP1-ISO-615; Mineralogy: Aragonite
+619	1206	0	-6.7	-8.4	-8.4	-9.2	0.85	UGA Sample ID:  DP1-ISO-621; Mineralogy: Aragonite
+629	1217	56	-9.6	-9.2	-9.6	-9.2	0.85	UGA Sample ID:  DP1-ISO-631; Mineralogy: Calcite
+634	1223	58	-9.4	-9.3	-9.4	-9.3	0.85	UGA Sample ID:  DP1-ISO-636; Mineralogy: Calcite
+638	1228	62	-9.3	-10.3	-9.3	-10.3	0.85	UGA Sample ID:  DP1-ISO-641; Mineralogy: Calcite
+644	1235	67	-9.5	-10.6	-9.5	-10.6	0.85	UGA Sample ID:  DP1-ISO-646; Mineralogy: Calcite
+650	1242	71	-9.9	-11.3	-9.9	-11.3	0.85	UGA Sample ID:  DP1-ISO-652; Mineralogy: Calcite
+655	1248	78	-9.3	-11.5	-9.3	-11.5	0.85	UGA Sample ID:  DP1-ISO-657; Mineralogy: Calcite
+659	1253	0	-6.3	-9.5	-8.0	-10.3	0.85	UGA Sample ID:  DP1-ISO-661; Mineralogy: Aragonite
+665	1260	0	-6.9	-9.4	-8.6	-10.2	0.85	UGA Sample ID:  DP1-ISO-667; Mineralogy: Aragonite
+671	1267	13	-8.7	-10.3	-8.7	-10.3	0.85	UGA Sample ID:  DP1-ISO-673; Mineralogy: Calcite
+676	1274	0	-6.0	-8.4	-7.7	-9.2	0.66	UGA Sample ID:  DP1-ISO-678; Mineralogy: Aragonite
+682	1283	0	-5.6	-7.8	-7.3	-8.6	0.66	UGA Sample ID:  DP1-ISO-684; Mineralogy: Aragonite
+685	1288	46	-9.5	-9.6	-9.5	-9.6	0.66	UGA Sample ID:  DP1-ISO-689; Mineralogy: Calcite
+690	1295	0	-6.5	-8.3	-8.2	-9.1	0.66	UGA Sample ID:  DP1-ISO-694; Mineralogy: Aragonite
+695	1305	0	-5.5	-8.9	-7.2	-9.7	0.40	UGA Sample ID:  DP1-ISO-699; Mineralogy: Aragonite
+704	1328		-9.7	-9.5	-9.7	-9.5	0.40	UGA Sample ID:  DP1-UAL-704; Mineralogy: Calcite
+705	1330	87					0.40	UGA Sample ID:  ; Mineralogy: Calcite
+710	1343	0	-5.5	-8.1	-7.2	-8.9	0.40	UGA Sample ID:  DP1-ISO-713; Mineralogy: Aragonite
+715	1355	0	-5.7	-8.7	-7.4	-9.5	0.40	UGA Sample ID:  DP1-ISO-718; Mineralogy: Aragonite
+720	1366	0	-5.8	-8.7	-7.5	-9.5	0.47	UGA Sample ID:  DP1-ISO-723; Mineralogy: Aragonite
+724	1375	0	-6.3	-9.0	-8.0	-9.8	0.47	UGA Sample ID:  DP1-ISO-728; Mineralogy: Aragonite
+730	1388	0	-6.9	-9.0	-8.6	-9.8	0.47	UGA Sample ID:  DP1-ISO-734; Mineralogy: Aragonite
+736	1401	0	-6.0	-8.5	-7.7	-9.3	0.47	UGA Sample ID:  DP1-ISO-740; Mineralogy: Aragonite
+746	1422	0	-7.4	-10.0	-9.1	-10.8	0.47	UGA Sample ID:  DP1-ISO-751; Mineralogy: Aragonite
+751	1433	0	-6.1	-9.7	-7.8	-10.5	0.47	UGA Sample ID:  DP1-ISO-756; Mineralogy: Aragonite
+756	1443	0	-5.8	-9.4	-7.5	-10.2	0.47	UGA Sample ID:  DP1-ISO-761; Mineralogy: Aragonite
+765	1463	0	-6.3	-8.7	-8.0	-9.5	0.47	UGA Sample ID:  DP1-ISO-770; Mineralogy: Aragonite
+770	1473	0	-6.3	-10.0	-8.0	-10.8	0.47	UGA Sample ID:  DP1-ISO-775; Mineralogy: Aragonite
+778	1491	0	-7.0	-9.7	-8.7	-10.5	0.40	UGA Sample ID:  DP1-ISO-783; Mineralogy: Aragonite
+784	1506	0	-6.0	-8.5	-7.7	-9.3	0.40	UGA Sample ID:  DP1-ISO-797; Mineralogy: Aragonite
+788	1516	0	-4.6	-8.1	-6.3	-8.9	0.40	UGA Sample ID:  DP1-ISO-802; Mineralogy: Aragonite
+795	1534	0	-7.3	-10.4	-9.0	-11.2	0.40	UGA Sample ID:  DP1-ISO-809; Mineralogy: Aragonite
+800	1546	0	-7.0	-10.1	-8.7	-10.9	0.40	UGA Sample ID:  DP1-ISO-814; Mineralogy: Aragonite
+805	1559	0	-7.0	-10.2	-8.7	-11.0	0.40	UGA Sample ID:  DP1-ISO-819; Mineralogy: Aragonite
+811	1574	0	-7.1	-10.0	-8.8	-10.8	0.40	UGA Sample ID:  DP1-ISO-825; Mineralogy: Aragonite
+816	1586	0	-6.7	-9.4	-8.4	-10.2	0.40	UGA Sample ID:  DP1-ISO-830; Mineralogy: Aragonite
+823	1604	0	-6.9	-9.4	-8.6	-10.2	0.40	UGA Sample ID:  DP1-ISO-837; Mineralogy: Aragonite
+828	1616	0	-6.2	-8.5	-7.9	-9.3	0.40	UGA Sample ID:  DP1-ISO-842; Mineralogy: Aragonite
+833	1627	0	-7.2	-9.1	-8.9	-9.9	0.38	UGA Sample ID:  DP1-ISO-847; Mineralogy: Aragonite
+838	1642	0	-5.6	-7.8	-7.3	-8.6	0.38	UGA Sample ID:  DP1-ISO-852; Mineralogy: Aragonite
+843	1655	0	-8.3	-9.0	-10.0	-9.8	0.38	UGA Sample ID:  DP1-ISO-857; Mineralogy: Aragonite
+851	1676	0	-7.0	-8.7	-8.7	-9.5	0.38	UGA Sample ID:  DP1-ISO-865; Mineralogy: Aragonite
+856	1689	0	-6.7	-9.7	-8.4	-10.5	0.38	UGA Sample ID:  DP1-ISO-870; Mineralogy: Aragonite
+861	1702	0	-6.4	-9.0	-8.1	-9.8	0.38	UGA Sample ID:  DP1-ISO-875; Mineralogy: Aragonite
+867	1718	0	-6.2	-8.3	-7.9	-9.1	0.38	UGA Sample ID:  DP1-ISO-880; Mineralogy: Aragonite
+872	1731	0	-7.1	-8.0	-8.8	-8.8	0.38	UGA Sample ID:  DP1-ISO-886; Mineralogy: Aragonite
+877	1744	0	-7.1	-8.2	-8.8	-9.0	0.38	UGA Sample ID:  DP1-ISO-891; Mineralogy: Aragonite
+883	1760	0	-7.0	-8.4	-8.7	-9.2	0.38	UGA Sample ID:  DP1-ISO-896; Mineralogy: Aragonite
+892	1783	0	-6.3	-8.5	-8.0	-9.3	0.38	UGA Sample ID:  DP1-ISO-905; Mineralogy: Aragonite
+895	1805	0	-4.6	-7.4	-6.3	-8.2	0.11	UGA Sample ID:  DP1-UAL-895; Mineralogy: Aragonite
+897	1824	0	-4.3	-6.9	-6.0	-7.7	0.11	UGA Sample ID:  DP1-ISO-910; Mineralogy: Aragonite
+900	1852	0	-6.0	-8.1	-7.7	-8.9	0.11	UGA Sample ID:  DP1-UAL-900; Mineralogy: Aragonite
+902	1871	0	-4.7	-7.9	-6.4	-8.7	0.11	UGA Sample ID:  DP1-ISO-915; Mineralogy: Aragonite
+906	1909	0	-4.0	-7.2	-5.7	-8.0	0.11	UGA Sample ID:  DP1-ISO-919; Mineralogy: Aragonite
+909	1938	0	-4.4	-7.5	-6.1	-8.3	0.11	UGA Sample ID:  DP1-UAL-909; Mineralogy: Aragonite
+911	1957	0	-4.1	-8.0	-5.8	-8.8	0.11	UGA Sample ID:  DP1-ISO-924; Mineralogy: Aragonite
+914	1985	0	-4.5	-8.2	-6.2	-9.0	0.11	UGA Sample ID:  DP1-UAL-914; Mineralogy: Aragonite
+916	2004	0	-5.1	-8.3	-6.8	-9.1	0.11	UGA Sample ID:  DP1-ISO-929; Mineralogy: Aragonite
+919	2032	0	-4.0	-7.5	-5.7	-8.3	0.11	UGA Sample ID:  DP1-UAL-919; Mineralogy: Aragonite
+922	2061	0	-4.4	-8.0	-6.1	-8.8	0.11	UGA Sample ID:  DP1-ISO-935; Mineralogy: Aragonite
+925	2089	0	-4.1	-8.6	-5.8	-9.4	0.11	UGA Sample ID:  DP1-UAL-925; Mineralogy: Aragonite
+928	2118	0	-3.1	-8.1	-4.8	-8.9	0.11	UGA Sample ID:  DP1-ISO-941; Mineralogy: Aragonite
+931	2146	0	-3.8	-7.2	-5.5	-8.0	0.11	UGA Sample ID:  DP1-UAL-931; Mineralogy: Aragonite
+934	2175	0	-3.6	-7.7	-5.3	-8.5	0.11	UGA Sample ID:  DP1-ISO-947; Mineralogy: Aragonite
+938	2212	0	-4.7	-8.9	-6.4	-9.7	0.11	UGA Sample ID:  DP1-UAL-938; Mineralogy: Aragonite
+941	2241	0	-4.2	-8.1	-5.9	-8.9	0.11	UGA Sample ID:  DP1-ISO-955; Mineralogy: Aragonite
+946	2288	0	-4.3	-8.0	-6.0	-8.8	0.11	UGA Sample ID:  DP1-ISO-960; Mineralogy: Aragonite
+949	2317	0	-4.8	-8.8	-6.5	-9.6	0.11	UGA Sample ID:  DP1-UAL-949; Mineralogy: Aragonite
+952	2345	0	-5.4	-8.8	-7.1	-9.6	0.11	UGA Sample ID:  DP1-ISO-967; Mineralogy: Aragonite
+955	2374	0	-5.1	-8.0	-6.8	-8.8	0.11	UGA Sample ID:  DP1-UAL-955; Mineralogy: Aragonite
+958	2402	0	-4.3	-7.2	-6.0	-8.0	0.11	UGA Sample ID:  DP1-ISO-973; Mineralogy: Aragonite
+963	2440	0	-4.6	-7.1	-6.3	-7.9	0.13	UGA Sample ID:  DP1-ISO-979; Mineralogy: Aragonite
+968	2478	0	-4.1	-8.1	-5.8	-8.9	0.13	UGA Sample ID:  DP1-ISO-985; Mineralogy: Aragonite
+972	2509	0	-3.0	-6.1	-4.7	-6.9	0.13	UGA Sample ID:  DP1-ISO-990; Mineralogy: Aragonite
+977	2547	0	-4.0	-7.5	-5.7	-8.3	0.13	UGA Sample ID:  DP1-ISO-995; Mineralogy: Aragonite
+983	2592	0	-3.8	-8.1	-5.5	-8.9	0.13	UGA Sample ID:  DP1-ISO-1001; Mineralogy: Aragonite
+988	2630	0	-3.9	-7.9	-5.6	-8.7	0.13	UGA Sample ID:  DP1-ISO-1006; Mineralogy: Aragonite
+994	2676	0	-4.3	-7.1	-6.0	-7.9	0.13	UGA Sample ID:  DP1-ISO-1012; Mineralogy: Aragonite
+1000	2722	0	-4.3	-8.1	-6.0	-8.9	0.13	UGA Sample ID:  DP1-ISO-1018; Mineralogy: Aragonite
+1005	2760	0	-4.5	-7.9	-6.2	-8.7	0.13	UGA Sample ID:  DP1-ISO-1023; Mineralogy: Aragonite
+1012	2809	0	-4.9	-8.1	-6.6	-8.9	0.16	UGA Sample ID:  DP1-ISO-1030; Mineralogy: Aragonite
+1017	2841	0	-4.8	-8.5	-6.5	-9.3	0.16	UGA Sample ID:  DP1-ISO-1036; Mineralogy: Aragonite
+1022	2873	0	-4.7	-7.3	-6.4	-8.1	0.16	UGA Sample ID:  DP1-ISO-1042; Mineralogy: Aragonite
+1026	2899	0	-5.3	-7.4	-7.0	-8.2	0.16	UGA Sample ID:  DP1-ISO-1046; Mineralogy: Aragonite
+1031	2930	0	-4.0	-8.4	-5.7	-9.2	0.16	UGA Sample ID:  DP1-ISO-1051; Mineralogy: Aragonite
+1036	2962	0	-3.8	-7.9	-5.5	-8.7	0.16	UGA Sample ID:  DP1-ISO-1057; Mineralogy: Aragonite
+1041	2994	0	-4.6	-7.0	-6.3	-7.8	0.16	UGA Sample ID:  DP1-ISO-1062; Mineralogy: Aragonite
+1046	3026	0	-4.8	-6.7	-6.5	-7.5	0.16	UGA Sample ID:  DP1-ISO-1067; Mineralogy: Aragonite
+1051	3058	0	-4.7	-5.8	-6.4	-6.6	0.16	UGA Sample ID:  DP1-ISO-1072; Mineralogy: Aragonite
+1061	3136	0	-4.1	-7.3	-5.8	-8.1	0.11	UGA Sample ID:  DP1-ISO-1082; Mineralogy: Aragonite
+1066	3182	0	-4.5	-7.2	-6.2	-8.0	0.11	UGA Sample ID:  DP1-ISO-1087; Mineralogy: Aragonite
+1070	3219	0	-4.9	-8.2	-6.6	-9.0	0.11	UGA Sample ID:  DP1-ISO-1091; Mineralogy: Aragonite
+1075	3265	0	-5.4	-8.5	-7.1	-9.3	0.11	UGA Sample ID:  DP1-ISO-1096; Mineralogy: Aragonite
+1080	3311	0	-5.0	-6.7	-6.7	-7.5	1.30	UGA Sample ID:  DP1-ISO-1101; Mineralogy: Aragonite
+1087	3316	0	-6.1	-8.8	-7.8	-9.6	1.30	UGA Sample ID:  DP1-ISO-1108; Mineralogy: Aragonite
+1092	3320	0	-6.7	-9.8	-8.4	-10.6	1.30	UGA Sample ID:  DP1-ISO-1113; Mineralogy: Aragonite
+1097	3324	0	-5.7	-8.3	-7.4	-9.1	1.30	UGA Sample ID:  DP1-ISO-1118; Mineralogy: Aragonite
+1102	3328	0	-5.4	-8.2	-7.1	-9.0	1.30	UGA Sample ID:  DP1-ISO-1123; Mineralogy: Aragonite
+1106	3331	0	-5.2	-8.5	-6.9	-9.3	1.30	UGA Sample ID:  DP1-ISO-1128; Mineralogy: Aragonite
+1111	3335	0	-5.8	-8.5	-7.5	-9.3	1.30	UGA Sample ID:  DP1-ISO-1133; Mineralogy: Aragonite
+1118	3340	0	-5.9	-8.2	-7.6	-9.0	1.30	UGA Sample ID:  DP1-ISO-1140; Mineralogy: Aragonite
+1123	3344	0	-6.2	-10.2	-7.9	-11.0	1.30	UGA Sample ID:  DP1-ISO-1145; Mineralogy: Aragonite
+1127	3347	0	-5.7	-7.9	-7.4	-8.7	1.30	UGA Sample ID:  DP1-ISO-1149; Mineralogy: Aragonite
+1130	3350	0	-5.5	-8.4	-7.2	-9.2	1.30	UGA Sample ID:  DP1-ISO-1153; Mineralogy: Aragonite
+1136	3354	0	-5.8	-8.7	-7.5	-9.5	1.30	UGA Sample ID:  DP1-ISO-1159; Mineralogy: Aragonite
+1144	3360	0	-6.2	-9.2	-7.9	-10.0	1.30	UGA Sample ID:  DP1-ISO-1168; Mineralogy: Aragonite
+1149	3364	0	-6.7	-8.3	-8.4	-9.1	1.30	UGA Sample ID:  DP1-ISO-1173; Mineralogy: Aragonite
+1158	3385	0	-5.5	-8.5	-7.1	-9.5	0.23	UGA Sample ID:  DP1-ISO-1182; Mineralogy: Aragonite
+1164	3412	3	-5.9	-9.8	-7.6	-10.6	0.23	UGA Sample ID:  DP1-ISO-1188; Mineralogy: Aragonite
+1169	3433	2	-6.9	-9.9	-8.6	-10.7	0.23	UGA Sample ID:  DP1-ISO-1193; Mineralogy: Aragonite
+1173	3451	0	-5.2	-7.8	-6.9	-8.6	0.23	UGA Sample ID:  DP1-ISO-1197; Mineralogy: Aragonite
+1176	3464	0	-5.8	-7.9	-7.5	-8.7	0.23	UGA Sample ID:  DP1-ISO-1201; Mineralogy: Aragonite
+1182	3490	0	-6.2	-8.2	-7.9	-9.0	0.23	UGA Sample ID:  DP1-ISO-1207; Mineralogy: Aragonite
+1186	3507		-6.6	-8.5	-8.3	-9.3	0.23	UGA Sample ID:  DP1-UAL-1186; Mineralogy: Aragonite
+1189	3520	0	-6.4	-9.1	-8.1	-9.9	0.23	UGA Sample ID:  DP1-ISO-1214; Mineralogy: Aragonite
+1193	3538	0	-5.7	-9.9	-7.4	-10.7	0.23	UGA Sample ID:  DP1-ISO-1218; Mineralogy: Aragonite
+1197	3555	0	-5.3	-11.1	-7.0	-11.9	0.23	UGA Sample ID:  DP1-ISO-1222; Mineralogy: Aragonite
+1202	3577		-5.3	-8.3	-7.0	-9.1		UGA Sample ID:  DP1-UAL-1202; Mineralogy: Aragonite
+1213	3609	0	-6.5	-8.6	-8.2	-9.4	0.34	UGA Sample ID:  DP1-ISO-1239; Mineralogy: Aragonite
+1221	3633	0	-5.6	-7.7	-7.3	-8.5	0.34	UGA Sample ID:  DP1-ISO-1246; Mineralogy: Aragonite
+1225	3645	0	-5.8	-8.1	-7.5	-8.9	0.34	UGA Sample ID:  DP1-ISO-1250; Mineralogy: Aragonite
+1230	3659	0	-5.6	-8.0	-7.3	-8.8	0.34	UGA Sample ID:  DP1-ISO-1255; Mineralogy: Aragonite
+1237	3680	0	-5.5	-8.6	-7.2	-9.4	0.34	UGA Sample ID:  DP1-ISO-1262; Mineralogy: Aragonite
+1243	3698	3	-5.9	-8.9	-7.6	-9.7	0.34	UGA Sample ID:  DP1-ISO-1268; Mineralogy: Aragonite
+1249	3715	6	-6.5	-9.4	-8.2	-10.2	0.34	UGA Sample ID:  DP1-ISO-1274; Mineralogy: Aragonite
+1253	3727	1	-5.6	-10.6	-7.3	-11.4	0.34	UGA Sample ID:  DP1-ISO-1278; Mineralogy: Aragonite
+1258	3742	0	-4.8	-8.6	-6.5	-9.4	0.34	UGA Sample ID:  DP1-ISO-1283; Mineralogy: Aragonite
+1262	3754	0	-5.3	-8.9	-7.0	-9.7	0.34	UGA Sample ID:  DP1-ISO-1287; Mineralogy: Aragonite
+1267	3768	0	-4.9	-7.2	-6.6	-8.0	0.34	UGA Sample ID:  DP1-ISO-1292; Mineralogy: Aragonite
+1271	3780	0	-5.4	-8.1	-7.1	-8.9	0.34	UGA Sample ID:  DP1-ISO-1296; Mineralogy: Aragonite
+1274	3789	0	-5.4	-8.9	-7.1	-9.7	0.34	UGA Sample ID:  DP1-ISO-1300; Mineralogy: Aragonite
+1278	3801	0	-5.1	-9.3	-6.8	-10.1	0.34	UGA Sample ID:  DP1-ISO-1304; Mineralogy: Aragonite
+1280	3807	0	-5.7	-8.4	-7.4	-9.2	0.34	UGA Sample ID:  DP1-ISO-1306; Mineralogy: Aragonite
+1284	3818	2	-6.1	-9.4	-7.8	-10.2	0.34	UGA Sample ID:  DP1-ISO-1310; Mineralogy: Aragonite
+1288	3830	0	-5.3	-8.8	-7.0	-9.6	0.34	UGA Sample ID:  DP1-ISO-1314; Mineralogy: Aragonite
+1295	3851	0	-5.6	-8.4	-7.3	-9.2	0.33	UGA Sample ID:  DP1-ISO-1321; Mineralogy: Aragonite
+1300	3866	0	-5.3	-8.1	-7.0	-8.9	0.33	UGA Sample ID:  DP1-ISO-1326; Mineralogy: Aragonite
+1305	3881	0	-5.6	-8.7	-7.3	-9.5	0.33	UGA Sample ID:  DP1-ISO-1331; Mineralogy: Aragonite
+1312	3902	0	-5.9	-8.1	-7.6	-8.9	0.33	UGA Sample ID:  DP1-ISO-1338; Mineralogy: Aragonite
+1317	3917	0	-5.5	-7.9	-7.2	-8.7	0.33	UGA Sample ID:  DP1-ISO-1344; Mineralogy: Aragonite
+1321	3929	0	-5.6	-8.6	-7.3	-9.4	0.33	UGA Sample ID:  DP1-ISO-1349; Mineralogy: Aragonite
+1327	3947	0	-5.8	-8.0	-7.5	-8.8	0.33	UGA Sample ID:  DP1-ISO-1355; Mineralogy: Aragonite
+1331	3959	0	-6.5	-8.2	-8.2	-9.0	0.33	UGA Sample ID:  DP1-ISO-1359; Mineralogy: Aragonite
+1338	3979	0	-6.0	-8.4	-7.7	-9.2	0.38	UGA Sample ID:  DP1-ISO-1366; Mineralogy: Aragonite
+1342	3989	0	-6.2	-8.0	-7.9	-8.8	0.38	UGA Sample ID:  DP1-ISO-1370; Mineralogy: Aragonite
+1346	4000	0	-6.5	-8.2	-8.2	-9.0	0.38	UGA Sample ID:  DP1-ISO-1374; Mineralogy: Aragonite
+1351	4013	0	-5.8	-8.8	-7.5	-9.6	0.38	UGA Sample ID:  DP1-ISO-1380; Mineralogy: Aragonite
+1360	4036	0	-6.6	-9.4	-8.3	-10.2	0.38	UGA Sample ID:  DP1-ISO-1391; Mineralogy: Aragonite
+1365	4049	0	-6.4	-8.4	-8.1	-9.2	0.38	UGA Sample ID:  DP1-ISO-1396; Mineralogy: Aragonite
+1370	4062	0	-6.4	-9.2	-8.1	-10.0	0.38	UGA Sample ID:  DP1-ISO-1402; Mineralogy: Aragonite
+1374	4073	0	-6.7	-8.3	-8.4	-9.1	0.38	UGA Sample ID:  DP1-ISO-1407; Mineralogy: Aragonite
+1381	4091	0	-5.9	-8.9	-7.6	-9.7	0.29	UGA Sample ID:  DP1-ISO-1414; Mineralogy: Aragonite
+1386	4108	0	-7.1	-8.6	-8.8	-9.4	0.29	UGA Sample ID:  DP1-ISO-1419; Mineralogy: Aragonite
+1390	4122	0	-7.3	-9.4	-9.0	-10.2	0.29	UGA Sample ID:  DP1-ISO-1423; Mineralogy: Aragonite
+1395	4139	0	-6.3	-9.2	-8.0	-10.0	0.29	UGA Sample ID:  DP1-ISO-1428; Mineralogy: Aragonite
+1400	4156	0	-6.0	-9.0	-7.7	-9.8	0.29	UGA Sample ID:  DP1-ISO-1433; Mineralogy: Aragonite
+1405	4174	0	-7.2	-10.1	-8.9	-10.9	0.29	UGA Sample ID:  DP1-ISO-1439; Mineralogy: Aragonite
+1412	4198	0	-5.4	-7.2	-7.1	-8.0	0.29	UGA Sample ID:  DP1-ISO-1446; Mineralogy: Aragonite
+1416	4212	0	-6.2	-8.2	-7.9	-9.0	0.29	UGA Sample ID:  DP1-ISO-1450; Mineralogy: Aragonite
+1421	4229	0	-5.5	-8.6	-7.2	-9.4	0.29	UGA Sample ID:  DP1-ISO-1455; Mineralogy: Aragonite
+1427	4250	0	-5.9	-8.6	-7.6	-9.4	0.29	UGA Sample ID:  DP1-ISO-1461; Mineralogy: Aragonite
+1432	4267	0	-6.5	-8.8	-8.2	-9.6	0.29	UGA Sample ID:  DP1-ISO-1466; Mineralogy: Aragonite
+1436	4281	0	-5.9	-8.3	-7.6	-9.1	0.29	UGA Sample ID:  DP1-ISO-1470; Mineralogy: Aragonite
+1441	4298	0	-6.9	-8.9	-8.6	-9.7	0.29	UGA Sample ID:  DP1-ISO-1475; Mineralogy: Aragonite
+1446	4315	0	-7.4	-9.5	-9.1	-10.3	0.29	UGA Sample ID:  DP1-ISO-1480; Mineralogy: Aragonite
+1452	4336	0	-6.5	-8.8	-8.2	-9.6	0.29	UGA Sample ID:  DP1-ISO-1486; Mineralogy: Aragonite
+1454	4343	2					0.29	UGA Sample ID:  ; Mineralogy: Calcite
+1461	4367	0	-6.5	-8.6	-8.2	-9.4	0.29	UGA Sample ID:  DP1-ISO-1495; Mineralogy: Aragonite
+1465	4380	0	-6.8	-9.0	-8.5	-9.8	0.29	UGA Sample ID:  DP1-ISO-1499; Mineralogy: Aragonite
+1470	4398	0	-6.1	-8.5	-7.8	-9.3	0.29	UGA Sample ID:  DP1-ISO-1504; Mineralogy: Aragonite
+1473	4408	0					0.37	UGA Sample ID:  DP1-1374; Mineralogy: Aragonite
+1474	4411	0	-7.0	-8.9	-8.7	-9.7	0.37	UGA Sample ID:  DP1-ISO-1508; Mineralogy: Aragonite
+1475	4413	76					0.37	UGA Sample ID:  ; Mineralogy: Calcite
+1477	4419	0					0.37	UGA Sample ID:  ; Mineralogy: Aragonite
+1479	4424	57					0.37	UGA Sample ID:  ; Mineralogy: Calcite
+1481	4430	0	-6.5	-8.0	-8.2	-8.8	0.37	UGA Sample ID:  DP1-ISO-1516; Mineralogy: Aragonite
+1485	4441	0	-6.7	-7.8	-8.4	-8.6	0.37	UGA Sample ID:  DP1-ISO-1520; Mineralogy: Aragonite
+1492	4460	0	-6.7	-9.2	-8.4	-10.0	0.37	UGA Sample ID:  DP1-ISO-1527; Mineralogy: Aragonite
+1496	4471	0	-6.6	-8.9	-8.3	-9.7	0.37	UGA Sample ID:  DP1-ISO-1531; Mineralogy: Aragonite
+1500	4482	0	-5.9	-8.6	-7.6	-9.4	0.37	UGA Sample ID:  DP1-ISO-1536; Mineralogy: Aragonite
+1506	4498	0	-6.9	-8.9	-8.6	-9.7	0.37	UGA Sample ID:  DP1-UAL-1506; Mineralogy: Aragonite
+1511	4512	0	-6.3	-8.8	-8.0	-9.6	0.37	UGA Sample ID:  DP1-ISO-1547; Mineralogy: Aragonite
+1519	4534	0	-6.6	-9.0	-8.3	-9.8	0.37	UGA Sample ID:  DP1-UAL-1519; Mineralogy: Aragonite
+1525	4550	28	-9.3	-9.9	-9.3	-9.9	0.81	UGA Sample ID:  DP1-UAL-1525 (G); Mineralogy: Calcite
+1526	4551	32					0.81	UGA Sample ID:  ; Mineralogy: Calcite
+1533	4560	74	-10.0	-10.1	-10.0	-10.1	0.81	UGA Sample ID:  DP1-UAL-1533; Mineralogy: Calcite
+1539	4567	35	-10.0	-11.6	-10.0	-11.6	0.81	UGA Sample ID:  DP1-UAL-1539; Mineralogy: Calcite
+1543	4572	35	-10.0	-10.8	-10.0	-10.8	0.81	UGA Sample ID:  DP1-UAL-1543; Mineralogy: Calcite
+1548	4578	33	-9.7	-9.9	-9.7	-9.9	0.81	UGA Sample ID:  DP1-UAL-1548; Mineralogy: Calcite
+1553	4585	38	-9.5	-10.0	-9.5	-10.0	0.81	UGA Sample ID:  DP1-UAL-1553; Mineralogy: Calcite
+1559	4592	28	-9.6	-10.9	-9.6	-10.9		UGA Sample ID:  DP1-B; Mineralogy: Calcite
+1568	4600	65	-9.9	-9.8	-9.9	-9.8	1.14	UGA Sample ID:  DP1-UAL-1568; Mineralogy: Calcite
+1574	4605	81	-9.5	-10.4	-9.5	-10.4	1.14	UGA Sample ID:  DP1-UAL-1574; Mineralogy: Calcite
+1578	4609	95	-9.9	-10.4	-9.9	-10.4	1.14	UGA Sample ID:  DP1-UAL-1578; Mineralogy: Calcite
+1582	4612	19					1.14	UGA Sample ID:  DP1-UAL-1582; Mineralogy: Calcite
+1584	4614	0	-8.0	-9.3	-9.7	-10.1		UGA Sample ID:  DP1-1475; Mineralogy: Aragonite
+1588	4618	100	-9.7	-10.2	-9.7	-10.2		UGA Sample ID:  DP1-UAL-1588; Mineralogy: Calcite
